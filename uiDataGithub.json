@@ -1,0 +1,10 @@
+{
+    "ui": [
+        {
+            "containerId":"this is a GITHUB test"
+        },  
+        {
+            "containerId":"the second test"
+        }                   
+    ]
+}

@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"fill_1_template.png",
+ "imageheight":2048,
+ "imagewidth":2048,
+ "margin":0,
+ "name":"fill",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.10.2",
+ "tileheight":512,
+ "tilewidth":512,
+ "type":"tileset",
+ "version":"1.10"
+}

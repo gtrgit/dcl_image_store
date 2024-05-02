@@ -1,5 +1,5 @@
 { "columns":4,
- "image":"blue_tiles.png",
+ "image":"https://gtrgit.github.io/dcl_image_store/images/tiles/image_templates/white_tiles.png",
  "imageheight":2048,
  "imagewidth":2048,
  "margin":0,
